@@ -2,7 +2,7 @@
 
 The Referrals section of the menu on the left gives your two options:
 
-![Referrals menu screenshot](images/image36.png "Referrals Menu")
+![Referrals menu screenshot](images/image26.png "Referrals Menu")
 
 * [Manage Received](referrals.md#manage-received). This menu option will take you to a page where you can view and manage the referrals that you have received from other organisations.
 * [Manage Sent](referrals.md#manage-sent). This menu option will take you to a page where you can view and manage the referrals that you have sent to other organisations.
@@ -11,17 +11,17 @@ The Referrals section of the menu on the left gives your two options:
 
 In the right hand corner of the Manage Sent page, you can see the “New Case” button. 
 
-![New case button screenshot](images/image37.png "New Case Button")
+![New case button screenshot](images/image4.png "New Case Button")
 
 If you click the button directly, the platform will take you to a separate page to make a referral. You can also Import referrals (if you already have them on your device in the agreed format), Export referrals, and Download referral templates.
 
-![Import referrals screenshot](images/image38.png "Import Referrals")
+![Import referrals screenshot](images/image23.png "Make Referral")
 
 This page is modelled on the existing referral form agreed by the Ukraine Response Consortium. It contains all the fields necessary to make a referral.
 
 Once you have filled out the fields necessary to make a referral, you can also upload additional information, such as image files. This is not mandatory.
 
-![Referral form screenshot](images/image39.png "Referral Form")
+![Referral form screenshot](images/image7.png "Upload additional information")
 
 Before you can make the referral, you must verify that the beneficiary has given their consent to share their data by clicking the toggle button.
 
@@ -35,25 +35,25 @@ Once you have completed the form and verified that consent has been given, you w
 
 On this page you can view the referrals that you have sent to other organisations, and you can create a new referral.
 
-![Manage sent page screenshot](images/image40.png "Manage Sent Page")
+![Manage sent page screenshot](images/image25.png "Manage Sent Page")
 
 *The referrals that you have sent to other organisations are shown in a list. You can Search for a specific referral, or you can filter the referrals by Creator, by Step, by Recipient, by Activity, or by Date. The Actions column in the right show if you have permission to Edit or Delete the Referral.*
 
 Above the list of referrals, you can see two Tabs: Sent, and Drafts.
 
-![Sent and drafts tabs screenshot](images/image41.png "Sent and Draft Tabs")
+![Sent and drafts tabs screenshot](images/image19.png "Sent and Draft Tabs")
 
 ### Sent Tab
 
 The Sent tab will show you referrals that have already been sent. It shows the Case number, the organisation which the referral was Sent to, the Status of the referral, and the dates the referral was Created on and Updated on. You can also edit or delete referrals using the pen and paper icon or the trash icon on the right.
 
-![Sent tab detail screenshot](images/image42.png "Sent Tab Detail")
+![Sent tab detail screenshot](images/image40.png "Sent Tab Detail")
 
 ### Drafts Tab
 
 The Drafts tab will show you referrals which you have drafted but not sent. You can edit these drafts by clicking on the Pen and Paper icon on the right.
 
-![Draft tab detail screenshot](images/image43.png "Drafts Tab Detail")
+![Draft tab detail screenshot](images/image51.png "Drafts Tab Detail")
 
 #### How to Withdraw a Referral
 
@@ -65,7 +65,7 @@ On this page you can view the referrals that you have received from other organi
 
 The List shows the Case number, the organisation which is the Sender of the referral, the Status of the referral, and the dates the referral was Created on and Updated on.
 
-![Manage received list screenshot](images/image44.png "Manage Received List")
+![Manage received list screenshot](images/image18.png "Manage Received List")
 
 ### Viewing Referrals
 
@@ -75,13 +75,13 @@ The functions available to you on this page are:
 
 You can search for a specific referral by typing any search term into the Search Box.
 
-![Search referral screenshot](images/image45.png "Search Referral")
+![Search referral screenshot](images/image9.png "Search Referral")
 
 #### Filter the Referral List
 
 Below the Search Box you will see options for filtering the referrals by different variables:
 
-![Filter options screenshot](images/image46.png "Filter Options")
+![Filter options screenshot](images/image14.png "Filter Options")
 
 Most of these variables are easy to understand. Filter by Step is more complicated, and it is important that you understand what each Step means. You can learn more in the section below titled “[Understanding the Steps in a Referral](referrals.md#understanding-the-steps-in-a-referral)”.
 
@@ -89,17 +89,17 @@ Most of these variables are easy to understand. Filter by Step is more complicat
 
 If you click on any part of a line which shows a Case in the List, it will take you to a new page containing the [Individual Case Details](referrals.md#individual-case-details).
 
-![View individual case screenshot](images/image47.png "View Individual Case")
+![View individual case screenshot](images/image5.png "View Individual Case")
 
 #### Delete a specific Case
 
 You can delete a Case by clicking the Trashcan icon at the end of the line.
 
-![Delete case button screenshot](images/image48.png "Delete Case")
+![Delete case button screenshot](images/image15.png "Delete Case")
 
 If you click the Trashcan, you will see a pop-up box asking if you are sure.
 
-![Delete case warning screenshot](images/image49.png "Delete Warning")
+![Delete case warning screenshot](images/image21.png "Delete Warning")
 
 You should not click “Confirm” unless you are absolutely certain that you want to delete the Case. Once you delete the Case, it cannot be retrieved!
 
@@ -107,37 +107,37 @@ You should not click “Confirm” unless you are absolutely certain that you wa
 
 You can Export a list of Referrals by clicking the Export Referrals button in the top right corner. The list will be downloaded as an Excel file with all the details for each Case.
 
-![Export referrals button screenshot](images/image50.png "Export Referrals")
+![Export referrals button screenshot](images/image45.png "Export Referrals")
 
 ### Individual Case Details
 
 The platform gives each case a unique Case Number. When you view a specific referral case, the Case Number will appear at the top of the page.
 
-![Case number header screenshot](images/image51.png "Case Number Header")
+![Case number header screenshot](images/image6.png "Case Number Header")
 
 To the right of the Case Number, you can see a drop-down list and some buttons. You will use these buttons to manage the referral, and we explain each button later in this section.
 
-![Case actions screenshot](images/image52.png "Case Actions")
+![Case actions screenshot](images/image50.png "Case Actions")
 
 Below the Case Number, you can see two Tabs: Referral, and Discussion.
 
-![Referral and Discussion tabs screenshot](images/image53.png "Referral and Discussion Tabs")
+![Referral and Discussion tabs screenshot](images/image39.png "Referral and Discussion Tabs")
 
 #### Referral tab
 
 The Referral Tab is the default view on this page. In the Referral Tab, you can view all the details of the Referral.
 
-![Referral tab content screenshot](images/image54.png "Referral Tab Content")
+![Referral tab content screenshot](images/image56.png "Referral Tab Content")
 
 At the top you can see a visual representation of the status of the case, and how far the referral process has progressed through the Steps. You can learn more about the Steps in the section below titled “[Understanding the Steps in a Referral](referrals.md#understanding-the-steps-in-a-referral)”.
 
-![Referral progress bar screenshot](images/image55.png "Referral Progress Bar")
+![Referral progress bar screenshot](images/image34.png "Referral Progress Bar")
 
 #### Discussion Tab
 
 In the Discussion tab, you can see the progress of the referral through the different steps of the process, with the dates and times given. You can also send messages, updates and requests for information to the Sending or Receiving Organisation. This ensures a record of the referral for future reference by both the Sending and the Receiving Organisation.
 
-![Discussion tab screenshot](images/image56.png "Discussion Tab")
+![Discussion tab screenshot](images/image11.png "Discussion Tab")
 
 ### Understanding the Steps in a Referral
 
@@ -145,7 +145,7 @@ A Referral Case goes through several Steps. These Steps are shown at the top of 
 
 When a Case moves to the next Step, you can change the Step by using the drop-down list in the top right of the screen for an individual Case. Select a step, click on the button “Move to Step”, and the Case will be updated. Explanations of each step are given below.
 
-![Referral change step screenshot](images/image57.png "Change Step")
+![Referral change step screenshot](images/image48.png "Change Step")
 
 #### Under Review
 
