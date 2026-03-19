@@ -2,8 +2,8 @@ site_name: Hotpot User Manual
 theme:
   name: material
   palette:
-    primary: teal
-    accent: slate
+    primary: indigo
+    accent: red
   font:
     text: Ubuntu Sans
     code: Ubuntu Sans Mono
