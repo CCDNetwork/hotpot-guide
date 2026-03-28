@@ -24,11 +24,11 @@ You need to upload your pre-booking beneficiary list in a template agreed by the
 
 Once your pre-booking list is in the format provided by the template, you can click on the “Run Pre-Booking Wizard” button to start.
 
-[INSERT IMAGE]
+![Run Pre-Booking Wizard button screenshot](images/image58.png "Run Pre-Booking Wizard button")
 
 When you click on the button “Run Pre-Booking Wizard”, the following pop-up box will appear.
 
-[INSERT IMAGE]
+![Pre-Booking Wizard pop-up screenshot](images/image59.png "Pre-Booking Wizard pop-up")
 
 ### Pre-Booking Check
 
@@ -48,7 +48,7 @@ The Wizard will check if your uploaded file uses the correct template, if your d
 
 If you have not used the correct template or your data is incorrectly formatted, you will see the following error message.
 
-[INSERT IMAGE]
+![Pre-Booking file check screenshot](images/image60.png "Pre-Booking file check")
 
 The Wizard will ask you to download the file in Excel format, correct any errors, and then upload the file again.
 
