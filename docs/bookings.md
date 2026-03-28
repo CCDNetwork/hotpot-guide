@@ -58,13 +58,11 @@ The Excel file will look exactly the same as your original file, except any erro
 
 If your uploaded file is in the correct template, your data is correctly formatted, and there are no duplicates, the Wizard will accept the file. You should click on the “Continue” button.
 
-[INSERT IMAGE]
+![Pre-Booking File accepted screenshot](images/image62.png "Pre-Booking File accepted")
 
 #### Step 3: Registry Check
 
 When you click on the “Continue” button, the Wizard will check the data in your uploaded file against all the data that is already stored in the platform registry.
-
-Any households which you have uploaded which are <span style="text-decoration:underline;">not</span> already in the registry, will be added to the registry. This is done automatically.
 
 If another organisation has already booked any of your households, the Wizard will inform you and ask you to download a file in Excel format.
 
@@ -74,9 +72,13 @@ A new column is also added on the right which tells you which organisation has b
 
 This will enable CWG members to identify when there is duplication of registration, and avoid duplication of assistance.
 
-[INSERT IMAGE]
+![Pre-Booking Registry duplicates screenshot](images/image63.png "Pre-Booking Registry duplicates")
 
 When you receive this information, you should update your organisation’s internal records to reflect changes to your final list.
+
+If all of the households on your list are available for booking, the Wizard will ask you to run the Booking Wizard to complete your booking process.
+
+![Pre-Booking Success screenshot](images/image64.png "Pre-Booking Success")
 
 ## Make Bookings
 
