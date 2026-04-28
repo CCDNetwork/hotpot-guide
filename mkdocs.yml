@@ -10,6 +10,7 @@ theme:
   features:
     - search.suggest
     - search.highlight
+    - navigation.tabs
     - toc.integrate
 extra_css:
   - stylesheets/extra.css
