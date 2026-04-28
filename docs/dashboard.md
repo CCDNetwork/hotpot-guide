@@ -1,6 +1,6 @@
 # Accessing the Platform Functions
 
-Once you are logged in, the first thing you will see is the Dashboard Page. You can also reach this page by clicking on the “Dashboard” button at the top of the left menu.
+Once you are logged in, the first thing you will see is the Dashboard Page. You can also reach this page by clicking on the “Dashboard” button at the top of the left menu. The specific Dashboard analytics are set up by the organisation administering the platform for your group.
 
 ![Dashboard screenshot](images/image53.png "Dashboard")
 
