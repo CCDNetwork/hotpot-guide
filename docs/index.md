@@ -3,13 +3,13 @@
 !!! info "Documentation Status"
     This document is accurate as of 2026/02/20. The platform is still under development, and the User Guide will be updated as new features are added.
 
-# Introduction
+## Introduction
 
 Welcome to the User Guide for HotPot, a data stewardship platform developed by the Collaborative Cash Delivery Network. The User Guide provides step-by-step instructions for accessing and using all the platform features, with screenshots to guide you through each process.
 
 Your organisation will create an account for you. Each account can have different permissions. All accounts can [Log In](index.md#login-page) and view the [Dashboard](dashboard.md#accessing-the-platform-functions). Depending on your role in your organisation, you may also have permission to use the [Booking](bookings.md#how-to-manage-bookings) function, the [Deduplication](deduplication.md#how-to-manage-deduplication) function, the [Referral](referrals.md#how-to-manage-referrals) function, or all three.
 
-# Login Page
+## Login Page
 
 The Login Page appears first when you visit the website. Log in by entering your email address and password.
 
