@@ -41,11 +41,11 @@ If you do not see your Template in the dropdown menu, you can either contact you
 
 ![Template selection screenshot](images/image29.png "Template selection")
 
-Once you have selected a Template, you can choose a file to deduplicate. When you press the button “Choose a file”, you will see the usual upload prompt which your device uses.
+Once you have selected a Template, you can choose a file to deduplicate.
 
-Choose a file from your device or from cloud storage. If you select the wrong file, you can press Remove and select another file.
-
-Once you have selected the relevant Template and the correct File, press “Continue” to go to the next stage of the deduplication process.
+1. Click **Choose a file** to open your device's upload prompt.
+2. Select a file from your device or cloud storage. (If you select the wrong file, click **Remove** and select another).
+3. Click **Continue** to go to the next stage.
 
 ![File selection screenshot](images/image32.png "File selection")
 
@@ -55,27 +55,28 @@ Your organisation may already have deduplicated your internal records, but the W
 
 If there are any duplicate records in your uploaded file, it will tell you how many, and offer you the option to download an Excel file which shows you those duplicates.
 
-If you press the Download button, this file will be downloaded to your device or cloud storage. You can then open the file to check and edit the duplicates on your device.
+1. Click **Download** to save this file to your device. 
+2. Open the file to check and edit the duplicates on your device.
 
 ![Internal duplicate screenshot](images/image54.png "Internal duplicates")
 
-Once you have edited the duplicates on your device, you should return to Step 1 of the Wizard and upload the corrected file.
+3. Return to Step 1 of the Wizard and upload the corrected file.
 
-When you upload a file which contains no duplicate records, you will see a message which confirms that the platform has found no duplicate records in the file.
+When you upload a file which contains no duplicate records, you will see a confirmation message.
 
 ![No internal duplicate screenshot](images/image57.png "No internal duplicates")
 
-The Wizard will confirm that you have uploaded a file with no duplicates in it, and you can press the “Continue” button to continue to the next step.
+4. Click **Continue** to proceed to the next step.
 
 #### Step 3: Registry Deduplication
 
 The Wizard will add your beneficiary data to the shared Registry, and check to see if your uploaded file has any potential duplicate records with the records already held in the Registry.
 
-If your file did not contain any duplicates, you will see the following screen. You can click the “Finish” button to close the Wizard, and you do not need to take any further action.
+If your file did not contain any duplicates, you will see the following screen. Click **Finish** to close the Wizard. You do not need to take any further action.
 
 ![Finish wizard screenshot](images/image24.png "Finish Wizard")
 
-If your file contained duplicates, you will see the following screen. You can click the “Finish” button to close the Wizard, and then visit the “[Manage Duplicates](deduplication.md#manage-duplicates)” page to view and manage the potential duplicates.
+If your file contained duplicates, you will see the following screen. Click **Finish** to close the Wizard, and then visit the “[Manage Duplicates](deduplication.md#manage-duplicates)” page to view and manage the potential duplicates.
 
 ![Duplicates found wizard screenshot](images/image8.png "Duplicates found in registry")
 
@@ -137,21 +138,20 @@ Most deduplication platforms require you to upload your data in a specific forma
 
 Templates enable the platform to “translate” your spreadsheet into a common format which enables data sharing. It does this by mapping the header labels from your spreadsheet to the labels in the registry (the shared database).
 
-Each organisation can set up its own template, and it’s possible to set up multiple templates if you need to upload data from different sources. If you click on the “Create Template” button in the top right, you will see the “Create new template” box.
+Each organisation can set up its own template, and it’s possible to set up multiple templates if you need to upload data from different sources. 
+
+1. Click **Create Template** in the top right to open the "Create new template" box.
 
 ![Create new template screenshot](images/image28.png "Create New Template")
 
-Choose a simple descriptive name for your template. You should then check the labels on the left, and then enter into the “Column name” boxes on the right the labels that your organisation’s spreadsheet uses as column **headers**. For example:
+2. Enter a simple descriptive name for your template. 
+3. Check the labels on the left, and enter your organisation’s spreadsheet column **headers** into the corresponding “Column name” boxes on the right. For example:
+    * If your spreadsheet uses “Last Name”, type “Last Name” next to “FamilyName”.
+    * If your spreadsheet uses “Date of Birth”, type “Date of Birth” next to “DateofBirth”.
 
-* The platform uses the label “FamilyName”, while your spreadsheet might use the header label “Last Name”. Type “Last Name” into the right hand column.
-* The platform uses the label “DateofBirth”, while your spreadsheet might use the label “Date of Birth”. Type “Date of Birth” into the right hand column.
-* etc
+You only need to enter the Column names which are needed for deduplication. These labels should have been collectively agreed by all the partners. If you are not sure which labels are being used, ask your focal point or a partner colleague.
 
-You only need to enter the Column names which are needed for deduplication. These labels should have been collectively agreed by all the partners which are using the platform for deduplication.
-
-If you are not sure which labels are being used for deduplication, you should ask the focal point in your organisation, or ask a colleague from a partner organisation who is also using the platform.
-
-Once you have finished entering the Column names, click on the “Create template” button. 
+4. Click **Create template** to save. 
 
 ![Map template labels screenshot](images/image13.png "Map Template Labels")
 

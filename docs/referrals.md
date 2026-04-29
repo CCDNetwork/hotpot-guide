@@ -13,24 +13,25 @@ In the right hand corner of the Manage Sent page, you can see the “New Case”
 
 ![New case button screenshot](images/image4.png "New Case Button")
 
-If you click the button directly, the platform will take you to a separate page to make a referral. You can also Import referrals (if you already have them on your device in the agreed format), Export referrals, and Download referral templates.
+Click the button to open the referral page. From here you can also Import referrals (if you already have them on your device in the agreed format), Export referrals, and Download referral templates.
 
 ![Import referrals screenshot](images/image23.png "Make Referral")
 
 This page is modelled on the existing referral form agreed by the Ukraine Response Consortium. It contains all the fields necessary to make a referral.
 
-Once you have filled out the fields necessary to make a referral, you can also upload additional information, such as image files. This is not mandatory.
+1. Fill out the mandatory referral fields.
+2. (Optional) Upload additional information, such as image files.
 
 ![Referral form screenshot](images/image7.png "Upload additional information")
 
 !!! warning "Beneficiary Consent Required"
     Before you can finalize the referral, you **must** verify that the beneficiary has given explicit consent to share their data by clicking the consent toggle button.
 
-Once you have completed the form and verified that consent has been given, you will see three buttons which give you different options:
+Once you have completed the form and verified consent, click one of the three options:
 
-1. Save Draft. Click on this button if you have not completed the referral form, and you want to save it to edit later.
-2. Send Referral. Click on this button if you have completed the referral form, and you want to send it to the receiving organisation.
-3. Cancel. Click on this button if you have started the referral form, but you do not wish to finish it or save it.
+* **Save Draft:** Save the referral to edit later.
+* **Send Referral:** Send the completed form to the receiving organisation.
+* **Cancel:** Discard the referral without saving.
 
 ## Manage Sent
 
@@ -94,11 +95,11 @@ If you click on any part of a line which shows a Case in the List, it will take 
 
 #### Delete a specific Case
 
-You can delete a Case by clicking the Trashcan icon at the end of the line.
+1. Click the Trashcan icon at the end of the case line.
 
 ![Delete case button screenshot](images/image15.png "Delete Case")
 
-If you click the Trashcan, you will see a pop-up box asking if you are sure.
+2. A pop-up box will appear asking you to confirm.
 
 ![Delete case warning screenshot](images/image21.png "Delete Warning")
 
@@ -107,7 +108,7 @@ If you click the Trashcan, you will see a pop-up box asking if you are sure.
 
 #### Export a list of Referrals 
 
-You can Export a list of Referrals by clicking the Export Referrals button in the top right corner. The list will be downloaded as an Excel file with all the details for each Case.
+Click the **Export Referrals** button in the top right corner to download the list as an Excel file containing details for each Case.
 
 ![Export referrals button screenshot](images/image45.png "Export Referrals")
 
@@ -145,7 +146,12 @@ In the Discussion tab, you can see the progress of the referral through the diff
 
 A Referral Case goes through several Steps. These Steps are shown at the top of a page when you view an Individual Case Detail, and they will help you to understand whether the referral is making progress or has been completed.
 
-When a Case moves to the next Step, you can change the Step by using the drop-down list in the top right of the screen for an individual Case. Select a step, click on the button “Move to Step”, and the Case will be updated. Explanations of each step are given below.
+To change the Step of a Case:
+
+1. Select a new step from the drop-down list in the top right of the screen.
+2. Click **Move to Step** to update the Case. 
+
+Explanations of each step are given below.
 
 ![Referral change step screenshot](images/image48.png "Change Step")
 

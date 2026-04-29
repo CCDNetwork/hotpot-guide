@@ -24,8 +24,9 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 nav:
-  - Home: index.md
+  - Start: index.md
   - Dashboard: dashboard.md
   - Bookings: bookings.md
   - Deduplication: deduplication.md
   - Referrals: referrals.md
+  - Help: help.md

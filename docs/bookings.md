@@ -36,11 +36,9 @@ The Pre-Booking Check will take you through three steps. You must complete each 
 
 #### Step 1: File Upload
 
-When you press the button “Choose a file”, you will see the usual upload prompt which your device uses.
-
-Choose a file from your device or from cloud storage. If you select the wrong file, you can press Remove and select another file.
-
-Once you have selected the correct File, press “Continue” to go to the next stage of the deduplication process.
+1. Click **Choose a file** to open your device's upload prompt.
+2. Select a file from your device or from cloud storage. (If you select the wrong file, click **Remove** and select another file).
+3. Click **Continue** to go to the next stage of the deduplication process.
 
 #### Step 2: File Checking
 
@@ -56,7 +54,7 @@ The Excel file will look exactly the same as your original file, except any erro
 
 ![Excel file error screenshot](images/image20.png "Excel error highlighting")
 
-If your uploaded file is in the correct template, your data is correctly formatted, and there are no duplicates, the Wizard will accept the file. You should click on the “Continue” button.
+If the Wizard accepts the file (meaning it is formatted correctly and has no duplicates), click **Continue**.
 
 ### Potential Errors
 
@@ -74,9 +72,9 @@ There are a number of potential errors which your spreadsheet might contain:
 
 #### Step 3: Registry Check
 
-When you click on the “Continue” button, the Wizard will check the data in your uploaded file against all the data that is already stored in the platform registry.
+Clicking **Continue** prompts the Wizard to check your uploaded data against the platform registry.
 
-If another organisation has already booked any of your households, the Wizard will inform you and ask you to download a file in Excel format.
+If another organisation has already booked any of your households, the Wizard will prompt you to download an Excel file.
 
 The Excel file will look exactly the same as your original file, except any households which have been booked by another organisation will be highlighted in red.
 
@@ -121,11 +119,9 @@ The Booking Wizard will take you through three steps. You must complete each ste
 
 #### Step 1: File Upload
 
-When you press the button “Choose a file”, you will see the usual upload prompt which your device uses.
-
-Choose a file from your device or from cloud storage. If you select the wrong file, you can press Remove and select another file.
-
-Once you have selected the correct File, press “Continue” to go to the next stage of the deduplication process.
+1. Click **Choose a file** to open your device's upload prompt.
+2. Select a file from your device or from cloud storage. (If you select the wrong file, click **Remove** and select another file).
+3. Click **Continue** to go to the next stage of the deduplication process.
 
 #### Step 2: File Checking
 
@@ -142,13 +138,13 @@ The Excel file will look exactly the same as your original file, except any erro
 
 ![Excel file error screenshot](images/image20.png "Excel error highlighting")
 
-If your uploaded file is in the correct template, your data is correctly formatted, and there are no duplicates, the Wizard will accept the file. You should click on the “Continue” button.
+If the Wizard accepts the file (meaning it is formatted correctly and has no duplicates), click **Continue**.
 
 ![File accepted screenshot](images/image42.png "File accepted")
 
 #### Step 3: Registry Check
 
-When you click on the “Continue” button, the Wizard will check the data in your uploaded file against all the data that is already stored in the platform registry.
+Clicking **Continue** prompts the Wizard to check your uploaded data against the platform registry.
 
 !!! info "Automatic Registry Addition"
     Any households which you have uploaded which are **not** already in the registry, will be added to the registry. This is done automatically.
