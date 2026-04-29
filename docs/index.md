@@ -11,7 +11,7 @@ Your organisation will create an account for you. Each account can have differen
 
 # Login Page
 
-The first thing you see when you visit the website is the Login Page. You can log in by entering your email address and a password.
+The Login Page appears first when you visit the website. Log in by entering your email address and password.
 
 Your account will be created by an administrator in your organisation. The administrator will let you know the email address and password that you should use.
 

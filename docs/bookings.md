@@ -26,7 +26,7 @@ Once your pre-booking list is in the format provided by the template, you can cl
 
 ![Run Pre-Booking Wizard button screenshot](images/image58.png "Run Pre-Booking Wizard button")
 
-When you click on the button “Run Pre-Booking Wizard”, the following pop-up box will appear.
+Click **Run Pre-Booking Wizard** to open the pop-up box.
 
 ![Pre-Booking Wizard pop-up screenshot](images/image59.png "Pre-Booking Wizard pop-up")
 
@@ -44,13 +44,13 @@ The Pre-Booking Check will take you through three steps. You must complete each 
 
 The Wizard will check if your uploaded file uses the correct template, if your data is incorrectly formatted, and if there are duplicates within the file.
 
-If you have not used the correct template or your data is incorrectly formatted, you will see the following error message.
+If you have not used the correct template or your data is incorrectly formatted, the Wizard displays the following error message.
 
 ![Pre-Booking file check screenshot](images/image60.png "Pre-Booking file check")
 
-The Wizard will ask you to download the file in Excel format, correct any errors, and then upload the file again.
-
-The Excel file will look exactly the same as your original file, except any errors will be highlighted in red. A new column is added to give you additional information about the error.
+1. Download the file in Excel format when prompted by the Wizard. (The Excel file looks exactly the same as your original file, except errors are highlighted in red, and a new column is added with error details).
+2. Correct any errors.
+3. Upload the file again.
 
 ![Excel file error screenshot](images/image20.png "Excel error highlighting")
 
@@ -86,7 +86,7 @@ This will enable CWG members to identify when there is duplication of registrati
 
 When you receive this information, you should update your organisation’s internal records to reflect changes to your final list.
 
-If all of the households on your list are available for booking, the Wizard will ask you to run the Booking Wizard to complete your booking process.
+If all of the households on your list are available for booking, the Wizard prompts you to run the Booking Wizard to complete your booking process.
 
 ![Pre-Booking Success screenshot](images/image64.png "Pre-Booking Success")
 
@@ -109,7 +109,7 @@ Once your booking list is in the format provided by the template, you can click 
 
 ![Booking Wizard button screenshot](images/image22.png "Booking Wizard button")
 
-When you click on the button “Booking Wizard”, the following pop-up box will appear.
+Click **Booking Wizard** to open the pop-up box.
 
 ![Booking Wizard popup screenshot](images/image10.png "Booking Wizard popup")
 
@@ -128,13 +128,13 @@ The Booking Wizard will take you through three steps. You must complete each ste
 The Wizard will check if your uploaded file uses the correct template, if your data is incorrectly formatted, and if there are duplicates within the file.
 
 !!! warning "Strict Formatting Required"
-    If you have not used the correct template or your data is incorrectly formatted, the Wizard will reject the file and ask you to correct the errors highlighted in red.
+    If you have not used the correct template or your data is incorrectly formatted, the Wizard rejects the file and prompts you to correct the errors highlighted in red.
 
 ![File check error screenshot](images/image49.png "File check error")
 
-The Wizard will ask you to download the file in Excel format, correct any errors, and then upload the file again.
-
-The Excel file will look exactly the same as your original file, except any errors will be highlighted in red. A new column is added to give you additional information about the error.
+1. Download the file in Excel format when prompted by the Wizard. (The Excel file looks exactly the same as your original file, except errors are highlighted in red, and a new column is added with error details).
+2. Correct any errors.
+3. Upload the file again.
 
 ![Excel file error screenshot](images/image20.png "Excel error highlighting")
 
@@ -149,7 +149,7 @@ Clicking **Continue** prompts the Wizard to check your uploaded data against the
 !!! info "Automatic Registry Addition"
     Any households which you have uploaded which are **not** already in the registry, will be added to the registry. This is done automatically.
 
-If another organisation has already booked any of your households, the Wizard will inform you and ask you to download a file in Excel format.
+If another organisation has already booked any of your households, the Wizard prompts you to download an Excel file.
 
 The Excel file will look exactly the same as your original file, except any households which have been booked by another organisation will be highlighted in red.
 
@@ -166,7 +166,7 @@ This will enable CWG members to identify when there is duplication of registrati
 
 On this page you can view the bookings which your organisation has made. You cannot view the bookings made by other organisations.
 
-You can see the National ID number of the Head of Household and Spouse, and details about duration of the assistance which you are providing them.
+This view displays the National ID number of the Head of Household and Spouse, along with details about the duration of the assistance you are providing.
 
 ![View bookings list screenshot](images/image46.png "View bookings list")
 

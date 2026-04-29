@@ -13,7 +13,7 @@ The Deduplication section of the menu on the left gives you three options:
 
 ## Deduplication
 
-On this page you can see who has uploaded data, the name of the file that they have uploaded, the number of duplicates in those files, and when the deduplication records were created and updated.
+This page displays who uploaded data, the filename, the number of duplicates in those files, and the timestamps for when the deduplication records were created and updated.
 
 ![Deduplication uploads screen screenshot](images/image44.png "Deduplication uploads")
 
@@ -35,7 +35,7 @@ This enables your organisation to use the platform without you changing any of y
 
 The Deduplication Wizard starts by asking you to select the relevant Template. Use the dropdown menu to select the Template set up by your organisation.
 
-If you do not select a Template, you will see a message to tell you that a Template is required. You will not be able to continue until you select a Template.
+If you do not select a Template, the Wizard displays a message stating that a Template is required. You cannot continue until you select a Template.
 
 If you do not see your Template in the dropdown menu, you can either contact your organisation administrator and ask them to create one, or [create a Template yourself](deduplication.md#manage-templates).
 
@@ -53,7 +53,7 @@ Once you have selected a Template, you can choose a file to deduplicate.
 
 Your organisation may already have deduplicated your internal records, but the Wizard will check to see if there are any duplicate records within your uploaded file.
 
-If there are any duplicate records in your uploaded file, it will tell you how many, and offer you the option to download an Excel file which shows you those duplicates.
+If there are duplicate records in your uploaded file, the Wizard states how many were found and provides an option to download an Excel file containing the duplicates.
 
 1. Click **Download** to save this file to your device. 
 2. Open the file to check and edit the duplicates on your device.
@@ -62,7 +62,7 @@ If there are any duplicate records in your uploaded file, it will tell you how m
 
 3. Return to Step 1 of the Wizard and upload the corrected file.
 
-When you upload a file which contains no duplicate records, you will see a confirmation message.
+Uploading a file with no duplicate records triggers a confirmation message.
 
 ![No internal duplicate screenshot](images/image57.png "No internal duplicates")
 
@@ -72,11 +72,11 @@ When you upload a file which contains no duplicate records, you will see a confi
 
 The Wizard will add your beneficiary data to the shared Registry, and check to see if your uploaded file has any potential duplicate records with the records already held in the Registry.
 
-If your file did not contain any duplicates, you will see the following screen. Click **Finish** to close the Wizard. You do not need to take any further action.
+If your file did not contain any duplicates, the following screen appears. Click **Finish** to close the Wizard. You do not need to take any further action.
 
 ![Finish wizard screenshot](images/image24.png "Finish Wizard")
 
-If your file contained duplicates, you will see the following screen. Click **Finish** to close the Wizard, and then visit the “[Manage Duplicates](deduplication.md#manage-duplicates)” page to view and manage the potential duplicates.
+If your file contained duplicates, the following screen appears. Click **Finish** to close the Wizard, and then visit the “[Manage Duplicates](deduplication.md#manage-duplicates)” page to view and manage the potential duplicates.
 
 ![Duplicates found wizard screenshot](images/image8.png "Duplicates found in registry")
 
@@ -88,7 +88,7 @@ The Unresolved tab will show you potential duplicates which you need to check. I
 
 ![Manage duplicates unresolved screenshot](images/image12.png "Manage duplicates unresolved list")
 
-If you click on any row, the platform will take you to Beneficiary Preview, which shows you the details of the potential duplicate. At the top of the page you will see new information:
+Click any row to open the Beneficiary Preview, which displays the details of the potential duplicate. The top of the page displays new information:
 
 * The status of the duplicate (either unavailable, accepted, or rejected)
 * The organisation which holds the primary record (i.e. the potential duplicate)
@@ -99,7 +99,7 @@ Under the primary record, the platform shows you the organisation which holds th
 
 You can use this information to contact your colleague in the other organisation to discuss whether this is a real duplicate, and what action you will take. This is called the [Adjudication Process](deduplication.md#the-adjudication-process), which needs to be agreed by all participants.
 
-Once the Adjudication Process is complete, you can change the status of the potential duplicate. In the top right corner of the Beneficiary Preview page, you will see a drop-down list entitled “Actions”.
+Once the Adjudication Process is complete, you can change the status of the potential duplicate using the “Actions” drop-down list in the top right corner of the Beneficiary Preview page.
 
 ![Duplicate actions dropdown screenshot](images/image55.png "Actions dropdown")
 

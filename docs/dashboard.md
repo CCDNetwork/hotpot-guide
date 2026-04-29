@@ -1,10 +1,10 @@
 # Accessing the Platform Functions
 
-Once you are logged in, the first thing you will see is the Dashboard Page. You can also reach this page by clicking on the “Dashboard” button at the top of the left menu. The specific Dashboard analytics are set up by the organisation administering the platform for your group.
+Upon logging in, the Dashboard Page appears first. You can also reach this page by clicking the “Dashboard” button at the top of the left menu. The specific Dashboard analytics are set up by the organisation administering the platform for your group.
 
 ![Dashboard screenshot](images/image53.png "Dashboard")
 
-In the main window you will see various analytics relating to the platform. On the left side of the screen is the menu. Your organisation may give you permission to use the [Booking](bookings.md#how-to-manage-bookings) function, [Deduplication](deduplication.md#how-to-manage-deduplication) function, or the [Referrals](referrals.md#how-to-manage-referrals) function, or a combination of functions.
+The main window displays various analytics relating to the platform. On the left side of the screen is the menu. Your organisation may give you permission to use the [Booking](bookings.md#how-to-manage-bookings) function, [Deduplication](deduplication.md#how-to-manage-deduplication) function, or the [Referrals](referrals.md#how-to-manage-referrals) function, or a combination of functions.
 
 Click the admin button in the bottom left of the screen to open a menu with the following options:
 
@@ -22,8 +22,6 @@ Click the admin button in the bottom left of the screen to open a menu with the 
 
 ![My Profile screenshot](images/image3.png "My Profile")
 
-1. Click **Wipe deduplication data** in the top right corner of the screen. 
-2. A pop-up box will appear asking you to confirm the deletion of the data on your organisation's account.
 
 !!! danger "Irreversible Action"
     **Do not press the "Wipe deduplication data" button** unless you are 100% certain that you want to delete all the data you have previously uploaded. This action cannot be undone.

@@ -9,7 +9,7 @@ The Referrals section of the menu on the left gives your two options:
 
 ## How to create a Referral
 
-In the right hand corner of the Manage Sent page, you can see the “New Case” button. 
+The “New Case” button is located in the top right corner of the Manage Sent page.
 
 ![New case button screenshot](images/image4.png "New Case Button")
 
@@ -41,7 +41,7 @@ On this page you can view the referrals that you have sent to other organisation
 
 The referrals that you have sent to other organisations are shown in a list. You can Search for a specific referral, or you can filter the referrals by Creator, by Step, by Recipient, by Activity, or by Date. The Actions column in the right show if you have permission to Edit or Delete the Referral.
 
-Above the list of referrals, you can see two Tabs: Sent, and Drafts.
+Above the list of referrals are two Tabs: Sent, and Drafts.
 
 ![Sent and drafts tabs screenshot](images/image19.png "Sent and Draft Tabs")
 
@@ -81,7 +81,7 @@ You can search for a specific referral by typing any search term into the Search
 
 #### Filter the Referral List
 
-Below the Search Box you will see options for filtering the referrals by different variables:
+Below the Search Box are options for filtering the referrals by different variables:
 
 ![Filter options screenshot](images/image14.png "Filter Options")
 
@@ -114,15 +114,15 @@ Click the **Export Referrals** button in the top right corner to download the li
 
 ### Individual Case Details
 
-The platform gives each case a unique Case Number. When you view a specific referral case, the Case Number will appear at the top of the page.
+The platform assigns each case a unique Case Number, which displays at the top of the specific referral case page.
 
 ![Case number header screenshot](images/image6.png "Case Number Header")
 
-To the right of the Case Number, you can see a drop-down list and some buttons. You will use these buttons to manage the referral, and we explain each button later in this section.
+To the right of the Case Number are a drop-down list and buttons used to manage the referral. Each button is explained later in this section.
 
 ![Case actions screenshot](images/image50.png "Case Actions")
 
-Below the Case Number, you can see two Tabs: Referral, and Discussion.
+Below the Case Number are two Tabs: Referral, and Discussion.
 
 ![Referral and Discussion tabs screenshot](images/image39.png "Referral and Discussion Tabs")
 
@@ -132,13 +132,13 @@ The Referral Tab is the default view on this page. In the Referral Tab, you can 
 
 ![Referral tab content screenshot](images/image56.png "Referral Tab Content")
 
-At the top you can see a visual representation of the status of the case, and how far the referral process has progressed through the Steps. You can learn more about the Steps in the section below titled “[Understanding the Steps in a Referral](referrals.md#understanding-the-steps-in-a-referral)”.
+The top of the tab displays a visual representation of the case status and its progress through the Steps. To learn more about the Steps, refer to the section below titled “[Understanding the Steps in a Referral](referrals.md#understanding-the-steps-in-a-referral)”.
 
 ![Referral progress bar screenshot](images/image34.png "Referral Progress Bar")
 
 #### Discussion Tab
 
-In the Discussion tab, you can see the progress of the referral through the different steps of the process, with the dates and times given. You can also send messages, updates and requests for information to the Sending or Receiving Organisation. This ensures a record of the referral for future reference by both the Sending and the Receiving Organisation.
+The Discussion tab displays the referral's progress through the different steps, including dates and times. From here you can also send messages, updates, and requests for information to the Sending or Receiving Organisation, ensuring a record is kept for future reference.
 
 ![Discussion tab screenshot](images/image11.png "Discussion Tab")
 
