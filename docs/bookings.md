@@ -56,7 +56,8 @@ If you have not used the correct template or your data is incorrectly formatted,
 
 If the Wizard accepts the file (meaning it is formatted correctly and has no duplicates), click **Continue**.
 
-!!! warning "Potential Errors" There are a number of potential errors which your spreadsheet might contain:
+!!! warning "Potential Errors"
+    There are a number of potential errors which your spreadsheet might contain:
 
 * First check that you are using the right template, and that all the headers are correct.
 * Incorrect ID format. Your ID numbers must have the correct number of digits for your location.
