@@ -30,9 +30,9 @@ Click **Run Pre-Booking Wizard** to open the pop-up box.
 
 ![Pre-Booking Wizard pop-up screenshot](images/image59.png "Pre-Booking Wizard pop-up")
 
-### Pre-Booking Check
+### The Pre-Booking Wizard
 
-The Pre-Booking Check will take you through three steps. You must complete each step to complete the deduplication process.
+The Pre-Booking Wizard will take you through three steps. You must complete each step to complete the deduplication process.
 
 #### Step 1: File Upload
 
