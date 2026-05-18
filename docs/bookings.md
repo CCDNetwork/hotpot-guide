@@ -56,7 +56,7 @@ If you have not used the correct template or your data is incorrectly formatted,
 
 If the Wizard accepts the file (meaning it is formatted correctly and has no duplicates), click **Continue**.
 
-### Potential Errors
+!!! warning "Potential Errors" 
 
 There are a number of potential errors which your spreadsheet might contain:
 
