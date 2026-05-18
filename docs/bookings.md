@@ -171,6 +171,8 @@ This view displays the National ID number of the Head of Household and Spouse, a
 
 You can search for specific households or bookings using the search function. You can search by ID number, by activity, by start and end dates, and by date of booking.
 
+![Booking search screenshot](images/image47.png "Booking search")
+
 ### Releasing Bookings
 
 You can release bookings in two ways: as an individual record, or in a batch.
@@ -209,4 +211,6 @@ A window will open and you can upload your completed Release Template.
 
 The platform will release all the records in your completed Release Template.
 
-![Booking search screenshot](images/image47.png "Booking search")
+### Export Bookings
+
+Click on the 'Export Bookings' button in the top right to download your records.
