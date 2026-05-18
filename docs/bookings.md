@@ -171,4 +171,42 @@ This view displays the National ID number of the Head of Household and Spouse, a
 
 You can search for specific households or bookings using the search function. You can search by ID number, by activity, by start and end dates, and by date of booking.
 
+### Releasing Bookings
+
+You can release bookings in two ways: as an individual record, or in a batch.
+
+#### Release Individual Records
+
+Each record has a button on the far right of the View Bookings Page: Release.
+
+![View release_button_screenshot](images/image70.png "Release Button")
+
+Click on the 'Release' button, and the platform will ask if you are certain that you want to release the booking.
+
+![View release_confirm_screenshot](images/image71.png "Release Confirmation")
+
+Click 'Release' if you want to release the booking, and 'Cancel' if you do not want to release the booking.
+
+#### Release a Batch of Records
+
+In the top right hand corner of the View Bookings Page are three buttons.
+
+![View view_bookings_buttons_screenshot](images/image72.png "Three Buttons")
+
+Click on the 'Download Template' button and select 'Release Template'.
+
+![View select_release_template_screenshot](images/image73.png "Select Release Template")
+
+The platform will download a copy of the Release Template to your device.
+
+The Release Template only has two fields: the Head of Household ID, and the Start Date.
+
+![View release_template_screenshot](images/image74.png "Release Template fields")
+
+Fill in the Release Template, and then click on the 'Batch Release' button.
+
+A window will open and you can upload your completed Release Template.
+
+The platform will release all the records in your completed Release Template.
+
 ![Booking search screenshot](images/image47.png "Booking search")
